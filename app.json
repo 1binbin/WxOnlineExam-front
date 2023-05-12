@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/eaxm/eaxm",
+    "pages/index/index"
+    ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#07C160",
+    "navigationBarTitleText": "在线答题系统",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
